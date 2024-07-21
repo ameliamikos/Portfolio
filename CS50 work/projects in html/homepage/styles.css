@@ -1,0 +1,69 @@
+
+b {
+    font-family: georgia, serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    padding-left: 35%;
+    padding-right: 30%;
+}
+
+.centered {
+    text-align: center;
+}
+
+#headerbox {
+    background-color: #015599;
+    width: 100%;
+    z-index: -1;
+}
+
+#backs {
+    background-color: #18453B;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+
+#backw {
+    background-color: #008168;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+}
+
+p {
+    font-family: times new roman;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-family: times new roman;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-family: helvetica;
+    font-size: 25px;
+    color: black;
+    text-align: left;
+    text-decoration: underline;
+}
+
+h4 {
+    font-family: helvetica;
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    padding: 10 px;
+}
+
+.card {
+    width: 25rem;
+    margin: auto;
+}

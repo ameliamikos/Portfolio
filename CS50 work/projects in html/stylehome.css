@@ -1,0 +1,42 @@
+.centered {
+    text-align: center;
+}
+    h1 {
+        font-family: arial, sans-serif;
+        font-size: 45px;
+        text-decoration-line: underline;
+        margin-top: 45px;
+    }
+    h2 {
+        font-family: arial, sans-serif;
+        font-size: 20px;
+        margin-top: 3px;
+    }
+    h3 {
+        font-family: arial, sans-serif;
+        font-size: 30px;
+        color: #FFFFFF
+    }
+    #box {
+        background-color: #A51C30 ;
+        padding: 10px ;
+        border: 2px solid black ;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 500px;
+        border-radius: 10px;
+        z-index: 10;
+    }
+    #backbox {
+        background-color: black;
+        position: absolute;
+        z-index: -1;
+        border-radius: 10px;
+        width:550px;
+        height: 950px;
+        margin-top: -15px;
+        margin-left: 477px;
+        margin-right: auto;
+        border: 10px solid black
+    }
